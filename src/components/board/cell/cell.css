@@ -1,0 +1,12 @@
+.square{
+  background: #008000;
+  border: 3px solid #000;
+  height: 25%;
+  width: 25%;
+  cursor: pointer;
+}
+.board-row{
+  clear: both;
+	content: "";
+	display: table;
+}
